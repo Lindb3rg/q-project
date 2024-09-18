@@ -8,8 +8,9 @@
 build/
 env
 /staticfiles/
-
+env
 #src
 *.sqlite*
 
-#.env
+
+.env
