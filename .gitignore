@@ -12,5 +12,5 @@ env
 #src
 *.sqlite*
 
-
+static
 .env
